@@ -1,0 +1,7 @@
+# Aiogram-Bot
+Bajariladigan ishlar ketma ketligi:
+1.pip install -r ishlatilgankutubxonalar.txt
+2.https://www.exchangerate-api.com/docs/python-currency-api ushbu manzildan api olish.
+3.https:t/me/Botfather dan api token olish.
+4.python bot.py deb consoleda yozasiz.
+Dastur tayyor: 😉😉😉
